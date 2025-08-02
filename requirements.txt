@@ -2,5 +2,8 @@ Flask==1.1.1
 pymessenger==0.0.7.0
 requests
 gunicorn
+<<<<<<< HEAD
 Jinja2==2.11.3
 markupsafe==2.0.1
+=======
+>>>>>>> 6a4a2c2 (Fix version compatibility with markupsafe)
